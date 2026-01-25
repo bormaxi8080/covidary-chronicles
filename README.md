@@ -10,10 +10,8 @@
 
 Если вам понравился этот проект, донатьте:
 
-ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
 
----
-
-(c) Максим Маршак
+----
 
 @bormaxi8080, 2023
